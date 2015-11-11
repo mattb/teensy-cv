@@ -8,3 +8,5 @@ An opamp board with attenuating pots on inputs to:
 
 ![PCB]
 (teensy-cv-pcb.png)
+
+Note: output op amp configuration is inverting, which must be compensated for in code.
